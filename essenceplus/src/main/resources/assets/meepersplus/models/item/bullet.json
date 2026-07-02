@@ -1,6 +1,0 @@
-{
-    "parent": "meepersplus:item/Bullet_custom",
-    "textures": {
-        "all": "meepersplus:blocks/bullet"
-    }
-}
